@@ -3,7 +3,7 @@
 
 ### 📝 1. Sentiment Analysis on Product Reviews
 **Goal:** Classify product reviews as **positive** or **negative** using machine learning or deep learning models.  
-**Dataset:** [Amazon Reviews Dataset – Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
+**Dataset:** [IMDB Dataset – Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
 **Techniques:** Text preprocessing, tokenization, feature extraction (TF-IDF or embeddings), sentiment classification.  
 **Libraries:** `pandas`, `sklearn`, `nltk`, `transformers`
 
